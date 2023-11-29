@@ -1,0 +1,52 @@
+[
+    {
+      "perfumeId": 1,
+      "name": "Eau De Toilette N°121",
+      "fragranceFamily": "Floral",
+      "gender": "Women",
+      "season": "Spring-Summer",
+      "price": 65,
+      "description": "Feminine Sophisticated with notes of Roses, Raspberry and Vanilla",
+      "imageUrl": "https://artfin.tn/uploads/produits/1bf223e537afaf379cafd89b60acd8a8.jpg"
+    },
+    {
+      "perfumeId": 2,
+      "name": "Eau De Toilette N°108",
+      "fragranceFamily": "Floral",
+      "gender": "Women",
+      "season": "Spring-Summer",
+      "price": 65,
+      "description": "Fresh Happy sensual with notes of Rose , freesia, Musc and Patchouli.",
+      "imageUrl": "https://artfin.tn/uploads/produits/78870f1914c4685ed255f576f375d0da.jpg"
+    },
+    {
+      "perfumeId": 3,
+      "name": "Eau De Toilette N°104",
+      "fragranceFamily": "Woody",
+      "gender": "Women",
+      "season": "Fall-Winter",
+      "price": 65,
+      "description": "Powerful Woody scent with notes of Jasmin and Amber",
+      "imageUrl": "https://artfin.tn/uploads/produits/ec645a5b93e060a5cec74bd8213ab9dc.jpg"
+    },
+    {
+      "perfumeId": 4,
+      "name": "Eau De Toilette N°316",
+      "fragranceFamily": "Fresh",
+      "gender": "Men",
+      "season": "Spring-Summer",
+      "price": 65,
+      "description": "Fresh and addictive with notes of Bergamot and Tonka beans",
+      "imageUrl": "https://artfin.tn/uploads/produits/03efef6ef03b5a1f5b206534d0d5f2ef.jpg"
+    },
+    {
+      "perfumeId": 5,
+      "name": "Eau De Toilette N°502",
+      "fragranceFamily": "Woody",
+      "gender": "Unisex",
+      "season": "Fall-Winter",
+      "price": 65,
+      "description": "Woody unisex perfume with notes of Peach, Pepper and Oud",
+      "imageUrl": "https://artfin.tn/uploads/produits/e74efac792a66bd382754caaa92900e7.jpg"
+    }
+  ]
